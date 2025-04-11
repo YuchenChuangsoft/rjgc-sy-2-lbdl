@@ -1,2 +1,2 @@
 # rjgc-sy-2-lbdl
-RuanJianGocheng-ShuangYu-2-LvBoDianLong
+RuanJianGoCheng-ShuangYu-2-LvBoDianLong
